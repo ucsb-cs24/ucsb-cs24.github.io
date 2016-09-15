@@ -2,7 +2,7 @@
 title: UCSB CS24
 ---
 
-# Problem Solving with Computers I
+# Problem Solving with Computers II
 
 <div id="about" data-role="collapsible" data-collapsed="true" markdown="1">
 <h2>About this course</h2>
@@ -10,12 +10,9 @@ title: UCSB CS24
 A course taught in the [Dept. of Computer Science](http://www.cs.ucsb.edu) at
 [UC Santa Barbara](http://www.ucsb.edu).
 
-This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-cs16.github.io>.   If you are a CS department faculty member or TA that should have access to this page, contact Phill Conrad to request permission.
+This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-cs24.github.io>.   If you are a CS department faculty member or TA that should have access to this page, contact Phill Conrad to request permission.
 
-* [Catalog Description](https://www.cs.ucsb.edu/education/courses/cmpsc-16) including pre-requisites
-* [Older materials from Conrad's 16wiki](https://foo.cs.ucsb.edu/16wiki) site.
-* [Older materials from Conrad's personal website](https://www.cs.ucsb.edu/~pconrad/cs16)
-
+* [Catalog Description](https://www.cs.ucsb.edu/education/courses/cmpsc-24) including pre-requisites
 
 </div><!-- about -->
 
