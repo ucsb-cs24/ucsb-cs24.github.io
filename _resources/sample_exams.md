@@ -1,19 +1,23 @@
 ---
 topic: "sample exams"
-desc: "Exams from previous offerings of CS16"
+desc: "Exams from previous offerings of CS24"
 ---
+
+No prior exams from CS24 are currently publically available.  If/when they become available, they will be posted here.
+
+<!-- 
 
 <div id="disclaimer" data-role="collapsible" data-collapsed="false" markdown="1">
 <h2>Disclaimer</h2>
 
-<b>CAUTION!</b>   These exams were based on an offering of CS16 that may be very different from the one you may be taking now!
+<b>CAUTION!</b>   These exams were based on an offering of CS24 that may be very different from the one you may be taking now!
 
 The exams linked to here are offered to help you study and prepare for your own exams.  However, you should recognize their limitations:
 
-* Student preparation in CS16 has improved each quarter (due to greater competition to enter the UCSB CS program, and stricter enforcement of pre-requisities)
-* The department's experience with offering CS16 in C++ has improved since Fall 2014, when the course was first changed to that language.
+* Student preparation for CS24 has improved each quarter (due to greater competition to enter the UCSB CS program, and stricter enforcement of pre-requisities)
+* The change of language in CS16 from C to C++ (starting in Fall 2014) has enabled us to move faster through the curriculum
 
-As a result, the content, rigor, and pace of CS16 have all moved in the direction of greater learning, and greater challenge.   So, don't be lured into a false sense of security if these exams seem "easy".    Take them as a "lower bound" for what you might encounter
+As a result, the content, rigor, and pace of CS24 have all moved in the direction of greater learning, and greater challenge.   So, don't be lured into a false sense of security if these exams seem "easy".    Take them as a "lower bound" for what you might encounter
 on your exam.
 
 In addition, even among recent exams, there are differences:
@@ -29,8 +33,6 @@ In addition, even among recent exams, there are differences:
 
 Finally, these disclaimers:
 
-* The language of instruction for CS16 changed from C to C++ starting Fall 2014.   
-    * So exams from quarters prior to Fall 2014 will be of limited relevance.
 * NOT ALL PRIOR EXAMS ARE AVAILABLE
     * If an exam is available, it will posted here.
     * If an answer key is available, it will be posted here.
@@ -42,34 +44,4 @@ Finally, these disclaimers:
 Ok, now the exams:
 
 </div>
-
-
-<div id="pre_f14" data-role="collapsible" data-collapsed="false" markdown="1">
-<h2>Exams from Fall 2014 forward (C++)</h2>
-
-| Quarter | Instructor| Midterm E01 | Midterm E02 | Final |
-|---------|-----------|-------------|-------------|-------|
-| F14     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E01/actualExam/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E02/pdf/E02.sample.pdf) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/CS16-F14-E03.pdf) <br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/CS16-F14-E03_Key.pdf) |
-| W15     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E01/cs16-15W-E01-sample.pdf)<br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E01/cs16-15W-E01-partial-key.pdf) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E02/CS16_W15_E02.pdf) <br> [Handout](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E02/CS16_W15_E02_Handout.pdf)<br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E02/CS16_W15_E02_Key.pdf) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E03/CS16_W15_E03.pdf) <br> [Handout](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E03/CS16_W15_E03_Handout.pdf) <br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E03/CS16_W15_E03_Key.pdf) |
-
-</div>
-
-
-<div id="pre_f14" data-role="collapsible" data-collapsed="true" markdown="1">
-<h2>Exams from prior to Fall 2014 (C language, not C++)</h2>
-
-<b>CAUTION!</b>   These exams were based on an offering of CS16 that was very different from the one you may be taking now!
-
-* It was taught using C rather than C++
-* The pace was slower
-
-So don't attach too much signficance to these.  They are provided mainly for reference and historical documentation.
-
-
-| Quarter | Instructor| Midterm E01 | Midterm E02 | Final |
-|---------|-----------|-------------|-------------|-------|
-| S10     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/10S/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/10S/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/10S/exams/E03/) |
-| W10     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/10W/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/10W/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/10W/exams/E03/) |
-| F09     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/09F/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/09F/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/09F/exams/E03/) |
-
-</div>
+-->
