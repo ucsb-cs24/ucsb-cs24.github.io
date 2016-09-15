@@ -1,5 +1,5 @@
 ---
-title: UCSB CS16
+title: UCSB CS24
 ---
 
 # Problem Solving with Computers I
