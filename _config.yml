@@ -1,16 +1,19 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
 title: "UCSB CS24"
 course: "CS24"
 github_url: https://github.com/ucsb-cs24/ucsb-cs24.github.io
 
-
-on_campus: http://proquest.safaribooksonline.com
-off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048/
-
-
-#kramdown:
-#  parse_block_html: true
+kramdown:
+  parse_block_html: false
 
 exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+include:
+  - _pages
 
 timezone: America/Los_Angeles
 
@@ -38,10 +41,11 @@ defaults:
       path: ""
       type: topics
     values:
-      layout: topic
+      layout: default
 
   - scope:
       path: ""
       type: resources
     values:
-      layout: topic
+      layout: default
+
