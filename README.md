@@ -1,5 +1,7 @@
 # ucsb-cs24
 
+BRANCH: pre-w19
+
 Jekyll-based website for UCSB CS24, for shared course materials.
 
 website: https://ucsb-cs24.github.io
