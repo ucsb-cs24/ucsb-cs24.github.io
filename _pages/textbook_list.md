@@ -1,6 +1,6 @@
 ---
 title: Textbooks
-permalink: "/textbook_list/"
+permalink: "/textbooks_list/"
 ---
 
 ## Textbooks
