@@ -11,8 +11,9 @@ The navigation is set by the values in `_data/navigation.yml`
 
 Jekyll status on Travis-CI: [![Build Status](https://travis-ci.org/ucsb-cs24/ucsb-cs24.github.io.svg?branch=master)](https://travis-ci.org/ucsb-cs24/ucsb-cs24.github.io)
 
-* Travis-ci: https://travis-ci.org/ucsb-cs48/ucsb-cs48.github.io
+* Travis-ci: https://travis-ci.org/ucsb-cs24/ucsb-cs24.github.io
 * To add a status image like this in your README.md, see [these instructions](https://docs.travis-ci.com/user/status-images/)
+* You can login to travis-ci.org with your Github.com credentials
 
 To test locally:
 * One time setup:
