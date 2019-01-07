@@ -27,7 +27,6 @@ The site for this repo is:  <https://travis-ci.org/ucsb-cs24/ucsb-cs24.github.io
 
 
 
-
 To test locally:
 * One time setup:
     * `git clone` the repo
@@ -36,3 +35,5 @@ To test locally:
 * From then on, to test the site locally:
     * Run `./jekyll.sh
     * Point browser to <http://localhost:4000>
+    * You can also add `./jekyll --port 4200` (or any port number) to run Jekyll on a different port
+
