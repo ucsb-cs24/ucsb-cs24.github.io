@@ -76,7 +76,7 @@ offering_links:
          description: "Q&A Forum"
   - title: Github
     dropdown:
-       - title: ucsb-cs24-w19-mirza
-         url: https://github.com/ucsb-cs24-w19-mirza
+       - title: ucsb-cs24-s19-mirza
+         url: https://github.com/ucsb-cs24-s19-mirza
 
 
