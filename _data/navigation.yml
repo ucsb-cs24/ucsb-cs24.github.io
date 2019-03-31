@@ -27,13 +27,13 @@ main_dropdown:
        url: /resources_list/
 
 offerings:
-   title: W19
+   title: S19
    url: /	
-   baseurl: /w19
+   baseurl: /s19
    items:
-      - title: W19
+      - title: S19
         url: /
-        baseurl: /w19
+        baseurl: /s19
 
 offering_links:
   - title: Hwk
