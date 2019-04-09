@@ -60,7 +60,7 @@ offering_links:
          url: /info_list/
          description: "List of General Information Pages"
        - title: Office Hours	
-         url: /info/office_hours/
+         url: /info/schedule/
        - title: Staff
          url: /staff_list/
   - title: Links
