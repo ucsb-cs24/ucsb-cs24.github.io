@@ -37,9 +37,6 @@ offering_menus:
     - title: Lab
       url: /lab_list/
       description: "Lab Assignments"
-    - title: Exam
-      url: /exam_list/
-      description: "Exams"
     - title: Cal
       url: /info/calendar/
       description: "Calendar"
