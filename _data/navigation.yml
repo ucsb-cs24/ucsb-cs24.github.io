@@ -28,8 +28,8 @@ main_dropdown:
 
 offering_menus:
   -
-    term: S22
-    baseurl: /s22
+    term: W22
+    baseurl: /w22
     items:
     - title: PA
       url: /pa_list/
@@ -61,8 +61,8 @@ offering_menus:
           description: "Q&A Forum"
     - title: Github
       dropdown:
-        - title: ucsb-cs24-s22
-          url: https://github.com/ucsb-cs24-s22
+        - title: ucsb-cs24-w22
+          url: https://github.com/ucsb-cs24-w22
   -
     term: S20
     baseurl: /s20
