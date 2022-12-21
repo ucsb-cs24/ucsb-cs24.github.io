@@ -28,8 +28,8 @@ main_dropdown:
 
 offering_menus:
   -
-    term: S22
-    baseurl: /s22
+    term: W23
+    baseurl: /w23
     items:
     - title: PA
       url: /pa_list/
@@ -61,142 +61,142 @@ offering_menus:
           description: "Q&A Forum"
     - title: Github
       dropdown:
-        - title: ucsb-cs24-s22
-          url: https://github.com/ucsb-cs24-s22
-  -
-    term: S20
-    baseurl: /s20
-    items:
-    - title: Hwk
-      url: /hwk_list/
-      description: "Homework Assignments"
-    - title: PA
-      url: /pa_list/
-      description: "Programming Assignments"
-    - title: Lab
-      url: /lab_list/
-      description: "Lab Assignments"
-    - title: Exam
-      url: /exam_list/
-      description: "Exams"
-    - title: Cal
-      url: /info/calendar/
-      description: "Assignment Calendar"
-    - title: More
-      dropdown:
-        - title: Syllabus
-          url: /info/syllabus/
-          description: "Syllabus"    
-        - title: Info Pages
-          url: /info_list/
-          description: "List of General Information Pages"
-        - title: Office Hours	
-          url: /info/schedule/
-        - title: Staff
-          url: /staff_list/
-    - title: Links
-      dropdown:	 
-        - title: Gauchospace
-          url: https://gauchospace.ucsb.edu
-          description: "Overall Grade Information"
-        - title: GradeScope
-          url: https://gradescope.com
-          description: "HW and Lab Grades"
-        - title: Piazza
-          url: https://piazza.com
-          description: "Q&A Forum"
-    - title: Github
-      dropdown:
-        - title: ucsb-cs24-mirza
-          url: https://github.com/ucsb-cs24-mirza
-  -
-    term: F19
-    baseurl: /f19
-    items:
-    - title: Hwk
-      url: /hwk_list/
-      description: "Homework Assignments"
-    - title: PA
-      url: /pa_list/
-      description: "Programming Assignments"
-    - title: Lab
-      url: /lab_list/
-      description: "Lab Assignments"
-    - title: Exam
-      url: /exam_list/
-      description: "Exams"
-    - title: Cal
-      url: /info/calendar/
-      description: "Assignment Calendar"
-    - title: More
-      dropdown:
-        - title: Syllabus
-          url: /info/syllabus/
-          description: "Syllabus"    
-        - title: Info Pages
-          url: /info_list/
-          description: "List of General Information Pages"
-        - title: Office Hours	
-          url: /info/schedule/
-        - title: Staff
-          url: /staff_list/
-    - title: Links
-      dropdown:	 
-        - title: Gauchospace
-          url: https://gauchospace.ucsb.edu
-          description: "Overall Grade Information"
-        - title: GradeScope
-          url: https://gradescope.com
-          description: "HW and Lab Grades"
-        - title: Piazza
-          url: https://piazza.com
-          description: "Q&A Forum"
-    - title: Github
-      dropdown:
-        - title: ucsb-cs24-f19-nichols
-          url: https://github.com/ucsb-cs24-f19-nichols
-  -
-    term: M19
-    baseurl: /m19
-    items:
-    - title: Hwk
-      url: /hwk_list/
-      description: "Homework Assignments"
-    - title: PA
-      url: /pa_list/
-      description: "Programming Assignments"
-    - title: Lab
-      url: /lab_list/
-      description: "Lab Assignments"
-    - title: Exam
-      url: /exam_list/
-      description: "Exams"
-    - title: Cal
-      url: /info/calendar/
-      description: "Assignment Calendar"
-    - title: More
-      dropdown:
-        - title: Syllabus
-          url: /info/syllabus/
-          description: "Syllabus"    
-        - title: Info Pages
-          url: /info_list/
-          description: "List of General Information Pages"
-        - title: Office Hours	
-          url: /info/schedule/
-        - title: Staff
-          url: /staff_list/
-    - title: Links
-      dropdown:	 
-        - title: Gauchospace
-          url: https://gauchospace.ucsb.edu
-          description: "Overall Grade Information"
-        - title: GradeScope
-          url: https://gradescope.com
-          description: "HW and Lab Grades"
-        - title: Piazza
-          url: https://piazza.com
-          description: "Q&A Forum"
+        - title: ucsb-cs24-w23
+#           url: https://github.com/ucsb-cs24-w23
+#   -
+#     term: S20
+#     baseurl: /s20
+#     items:
+#     - title: Hwk
+#       url: /hwk_list/
+#       description: "Homework Assignments"
+#     - title: PA
+#       url: /pa_list/
+#       description: "Programming Assignments"
+#     - title: Lab
+#       url: /lab_list/
+#       description: "Lab Assignments"
+#     - title: Exam
+#       url: /exam_list/
+#       description: "Exams"
+#     - title: Cal
+#       url: /info/calendar/
+#       description: "Assignment Calendar"
+#     - title: More
+#       dropdown:
+#         - title: Syllabus
+#           url: /info/syllabus/
+#           description: "Syllabus"    
+#         - title: Info Pages
+#           url: /info_list/
+#           description: "List of General Information Pages"
+#         - title: Office Hours	
+#           url: /info/schedule/
+#         - title: Staff
+#           url: /staff_list/
+#     - title: Links
+#       dropdown:	 
+#         - title: Gauchospace
+#           url: https://gauchospace.ucsb.edu
+#           description: "Overall Grade Information"
+#         - title: GradeScope
+#           url: https://gradescope.com
+#           description: "HW and Lab Grades"
+#         - title: Piazza
+#           url: https://piazza.com
+#           description: "Q&A Forum"
+#     - title: Github
+#       dropdown:
+#         - title: ucsb-cs24-mirza
+#           url: https://github.com/ucsb-cs24-mirza
+#   -
+#     term: F19
+#     baseurl: /f19
+#     items:
+#     - title: Hwk
+#       url: /hwk_list/
+#       description: "Homework Assignments"
+#     - title: PA
+#       url: /pa_list/
+#       description: "Programming Assignments"
+#     - title: Lab
+#       url: /lab_list/
+#       description: "Lab Assignments"
+#     - title: Exam
+#       url: /exam_list/
+#       description: "Exams"
+#     - title: Cal
+#       url: /info/calendar/
+#       description: "Assignment Calendar"
+#     - title: More
+#       dropdown:
+#         - title: Syllabus
+#           url: /info/syllabus/
+#           description: "Syllabus"    
+#         - title: Info Pages
+#           url: /info_list/
+#           description: "List of General Information Pages"
+#         - title: Office Hours	
+#           url: /info/schedule/
+#         - title: Staff
+#           url: /staff_list/
+#     - title: Links
+#       dropdown:	 
+#         - title: Gauchospace
+#           url: https://gauchospace.ucsb.edu
+#           description: "Overall Grade Information"
+#         - title: GradeScope
+#           url: https://gradescope.com
+#           description: "HW and Lab Grades"
+#         - title: Piazza
+#           url: https://piazza.com
+#           description: "Q&A Forum"
+#     - title: Github
+#       dropdown:
+#         - title: ucsb-cs24-f19-nichols
+#           url: https://github.com/ucsb-cs24-f19-nichols
+#   -
+#     term: M19
+#     baseurl: /m19
+#     items:
+#     - title: Hwk
+#       url: /hwk_list/
+#       description: "Homework Assignments"
+#     - title: PA
+#       url: /pa_list/
+#       description: "Programming Assignments"
+#     - title: Lab
+#       url: /lab_list/
+#       description: "Lab Assignments"
+#     - title: Exam
+#       url: /exam_list/
+#       description: "Exams"
+#     - title: Cal
+#       url: /info/calendar/
+#       description: "Assignment Calendar"
+#     - title: More
+#       dropdown:
+#         - title: Syllabus
+#           url: /info/syllabus/
+#           description: "Syllabus"    
+#         - title: Info Pages
+#           url: /info_list/
+#           description: "List of General Information Pages"
+#         - title: Office Hours	
+#           url: /info/schedule/
+#         - title: Staff
+#           url: /staff_list/
+#     - title: Links
+#       dropdown:	 
+#         - title: Gauchospace
+#           url: https://gauchospace.ucsb.edu
+#           description: "Overall Grade Information"
+#         - title: GradeScope
+#           url: https://gradescope.com
+#           description: "HW and Lab Grades"
+#         - title: Piazza
+#           url: https://piazza.com
+#           description: "Q&A Forum"
 
 
 
