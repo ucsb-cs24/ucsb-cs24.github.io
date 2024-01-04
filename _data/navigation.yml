@@ -27,7 +27,7 @@ main_dropdown:
        url: /resources_list/
 
 offering_menus:
-    term: W24
+    title: W24
     baseurl: /w24
     # items:  
     #  - title: W24-Home
