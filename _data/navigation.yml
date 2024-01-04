@@ -28,8 +28,8 @@ main_dropdown:
 
 offering_menus:
    -
-   term: W24
-   baseurl: /w24
+    term: W24
+    baseurl: /w24
     # items:  
     #  - title: W24-Home
     #    url: /
