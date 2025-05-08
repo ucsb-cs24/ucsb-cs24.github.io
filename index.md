@@ -14,7 +14,7 @@ This site is maintained in this github repo: <{{site.github_url}}>.
 
 If you are a CS department faculty member or TA that should have access to this page, contact Diba Mirza or Phill Conrad to request permission.
 
-* [Catalog Description](https://www.cs.ucsb.edu/education/courses/cmpsc-24-0) including pre-requisites
+* [Catalog Description](https://www.cs.ucsb.edu/education/courses/course-descriptions/problem-solving-computers-ii) including pre-requisites
 
 </div><!-- about -->
 
