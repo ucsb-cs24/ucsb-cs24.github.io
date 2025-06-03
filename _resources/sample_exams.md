@@ -3,7 +3,7 @@ topic: "sample exams"
 desc: "Exams from previous offerings of CS24"
 ---
 
-No prior exams from CS24 are currently publically available.  If/when they become available, they will be posted here.
+Past exams are available on the class Canvas site.
 
 <!-- 
 
