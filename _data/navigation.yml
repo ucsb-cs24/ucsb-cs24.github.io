@@ -28,12 +28,12 @@ main_dropdown:
 
 offering_menus:
    -
-    term: S25
-    baseurl: /s25
+    term: W26
+    baseurl: /w26
     # items:  
-    #  - title: W24-Home
+    #  - title: W26-Home
     #    url: /
-    #    baseurl: /w24
+    #    baseurl: /w26
     
     # term: F23
     # baseurl: /f23
