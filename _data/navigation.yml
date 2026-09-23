@@ -28,8 +28,8 @@ main_dropdown:
 
 offering_menus:
    -
-    term: S26
-    baseurl: /s26
+    term: F26
+    baseurl: /f26
     # items:  
     #  - title: S26-Home
     #    url: /
