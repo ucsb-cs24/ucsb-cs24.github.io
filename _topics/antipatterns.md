@@ -281,7 +281,7 @@ symptom that shows this code is wrong?
       sum += p->data;
       while (p->next != NULL) {
            p = p-> next;
-           sum = p->data;
+           sum += p->data;
       }
       return sum;
     }
@@ -299,7 +299,7 @@ the symptom that shows this code is wrong?
       sum += p->data;
       while (p != NULL) {
            p = p-> next;
-           sum = p->data;
+           sum += p->data;
       }
       return sum;
     }
@@ -312,14 +312,14 @@ The correct code is this:
       int sum=0;
       Node *p=head;
       while (p != NULL) {
-           sum = p->data;
+           sum += p->data;
            p = p-> next;
       }
       return sum;
     }
 ```
 
-Which can be expresssed more succinetly with a for loop. Using a for
+Which can be expressed more succinctly with a for loop. Using a for
 loop is less error prone, since everything is more likely to end up
 where it should:
 
